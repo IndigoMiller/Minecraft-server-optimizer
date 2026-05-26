@@ -56,4 +56,4 @@ Each module can be toggled independently. Check the `tweaks/` folder for the ind
 - **EntityLimiter** might conflict with mob-stacking plugins — disable one or the other
 - Some Paper-specific optimizations don't apply to Spigot — you'll see warnings in console but nothing breaks
 
-> This is a personal project shared as-is. Not affiliated with Mojang Studios or Microsoft. Use at your own risk and always keep backups of your world before applying server-side changes.
+> This is a personal project shared as-is. Not affiliated with Mojang Studios or Microsoft. Use at your own risk and always keep backups of your world before applying server-side changes. 
